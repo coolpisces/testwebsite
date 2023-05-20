@@ -1,1 +1,3 @@
 # testwebsite
+Sitenin çalışan hali aşağıdaki linkte...
+https://gentle-rock-0dad08810.3.azurestaticapps.net
